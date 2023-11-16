@@ -23,7 +23,7 @@ padding:0 0  2rem 0;
                 border-radius:2rem;
         border:1px solid #1B2025; 
         margin:0;">
-<img src="cover.png" style="border-bottom:4px solid #1B2025;">
+<img src="https://thisismalindu.com/webdev101/cover.jpg" style="border-bottom:4px solid #1B2025;">
 <div style="
 display:flex;
 flex-direction:column;
@@ -32,7 +32,7 @@ flex-direction:column;
 <p><a href="https://thisismalindu.com/ig" target="_blank"><img style=" background-color:#1B2025;
 border:3px solid #1B2025; cursor:pointer; 
         border-radius:50%;
-        width:10rem;margin:0; margin-top:-7rem;" src="dp.jpg" alt="Malindu Bandara Portrait"></a></p>
+        width:10rem;margin:0; margin-top:-7rem;" src="https://thisismalindu.com/webdev101/dp.jpg" alt="Malindu Bandara Portrait"></a></p>
 <div style="padding:0;
         display:flex;
         flex-direction:column;

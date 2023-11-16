@@ -1,4 +1,4 @@
-# Exercise
+# Exercises
 
 [Watch the Related Video 👇 ![Exercise and Homework](https://i3.ytimg.com/vi/xrmdh8mtdm8/maxresdefault.jpg)](https://youtu.be/xrmdh8mtdm8)
 

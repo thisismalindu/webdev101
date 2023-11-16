@@ -4,6 +4,3 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Web Dev 101 - Complete Course Documentation and Exercises"
-
-[output.html]
-additional-css = ["theme/custom.css"]

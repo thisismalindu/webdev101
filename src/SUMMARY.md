@@ -6,7 +6,7 @@
 - [How to use this book](how-to-use-book.md)
 - [How to use Videos](how-to-use-videos.md)
 - [How to get the best out of this course](get-the-best-out-of-this-course.md)
-- [Exercise](exercises.md)
+- [Exercises](exercises.md)
 
 # Getting Started
 
@@ -14,3 +14,4 @@
 - [Installing a Code Editor](installing-a-code-editor.md)
 - [Web Development Basics](webdev-basics.md)
 - [HTML Basics](html-basics.md)
+- [Basic Website](basic-website.md)
