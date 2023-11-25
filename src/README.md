@@ -23,7 +23,7 @@ padding:0 0  2rem 0;
                 border-radius:2rem;
         border:1px solid #1B2025; 
         margin:0;">
-<img src="cover.png" style="border-bottom:4px solid #1B2025;">
+<img src='https://thisismalindu.com/webdev101/cover.png' style="border-bottom:4px solid #1B2025;">
 <div style="
 display:flex;
 flex-direction:column;
