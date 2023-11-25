@@ -1,6 +1,6 @@
 # Basic Website
 
-[Watch the Related Video 👇 ![Basic Website](https://i3.ytimg.com/vi/Wic6ZYJU9gk/maxresdefault.jpg)](https://youtu.be/Wic6ZYJU9gk)
+[Watch the Related Video 👇 ![Basic Website](https://i3.ytimg.com/vi/PCPGUGY07js/maxresdefault.jpg)](https://www.youtube.com/watch?v=PCPGUGY07js)
 
 අද අපි සරල website එකක් හදන්න තමා ලෑස්ති වෙන්නේ. මේ තියෙන්නේ ඒක.
 
