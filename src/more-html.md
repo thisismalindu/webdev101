@@ -12,7 +12,10 @@
 |---|---|---|---|
 |![](https://thisismalindu.com/basicwebsite/images/website.png)|![](https://thisismalindu.com/basicwebsite/images/chess.png)|![](https://thisismalindu.com/basicwebsite/images/movies.png)|![](https://thisismalindu.com/basicwebsite/images/chat.png)|
 
-HTML Template
+<br>
+<br>
+
+`HTML Template`
 ```html
 <html>
   <head>
@@ -46,7 +49,9 @@ HTML Template
 </html>
 ```
 
-[imagegallery.html](https://thisismalindu.com/imagegallery.html)
+<br>
+
+[`imagegallery.html`](https://thisismalindu.com/imagegallery.html)
 ```html
 <html>
     <head>
