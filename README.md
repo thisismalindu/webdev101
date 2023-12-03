@@ -50,7 +50,10 @@ YouTube and a fast-growing TikTok following, which proves that I have the skills
 web development.
 I hope you get the best out of this course. I've put a lot of hard work into it, and I'm confident that
 you'll learn a lot.
+
 </p>
 </div>
 
 එහෙනම් අපි ඊලඟ section එකට ගිහින් බලමු තව මොනවද මේ [Introduction Chapter](readme.md) එකෙදි දැනගන්න ඕනෙ කියලා.
+
+This project uses [MDBook](https://github.com/rust-lang/mdBook) for documentation generation. MDBook is licensed under the [Mozilla Public License Version 2.0 (MPL-2.0)](https://www.mozilla.org/en-US/MPL/2.0/). For more details, please refer to the [MDBook documentation and license information](https://rust-lang.github.io/mdBook/)https://rust-lang.github.io/mdBook/.
